@@ -3,7 +3,7 @@ Final project demonstrating a replay attack chain with a live demo (SCADA Traffi
 
 <a href="https://youtu.be/2kqJ-zq2G0s" target="_blank">
   <img
-    width="800"
+    width="1290"
     height="1080"
     alt="Project"
     src="https://github.com/user-attachments/assets/9661f876-a9bc-4448-a237-017d9903c746"
@@ -21,7 +21,7 @@ By performing **ARP Spoofing**, I intercepted the communication between the HMI 
 *   **Attacker:** Kali Linux (ARP Spoofing & Traffic Injection)
 *   **Control Hardware:** Custom LED Traffic Light interfaced via GPIO.
 
-  <img width="800" height="1080" alt="Screenshot 2026-02-04 133509" src="https://github.com/user-attachments/assets/d185f2c3-d02f-4fdf-8b4b-2ea95eb199bc" />
+  <img width="1290" height="1080" alt="Screenshot 2026-02-04 133509" src="https://github.com/user-attachments/assets/d185f2c3-d02f-4fdf-8b4b-2ea95eb199bc" />
 
 
 ## 🚀 Attack Methodology (ICS/SCADA Focus)
